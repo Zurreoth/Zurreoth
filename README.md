@@ -1,16 +1,15 @@
-## Hi there 👋
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer)
 
-<!--
-**Zurreoth/Zurreoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Que bom ter você por aqui! Aceita um Café ☕?
 
-Here are some ideas to get you started:
+Sou uma pessoa que gosta de entender como as coisas funcionam e acredito que a gente aprende mais errando, testando e trocando ideias com outras pessoas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Um pouco sobre mim
+- Estou aprendendo algo novo sempre que consigo
+- Gosto de resolver problemas de um jeito simples
+- Adoro trocar ideias e trabalhar em equipe
+
+## Perfis
+- [LinkedIn](https://www.linkedin.com/in/igor-caio-grassi)
+
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer)
